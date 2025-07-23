@@ -16,6 +16,7 @@ Here are some ideas to get you started:
  👋 Hi there, I'm Henry 
 
 🔭 I'm currently working on....
+
 💻 Web Dev: HTML, CSS, JS | 📲 Mobile & Desktop Apps (Python, React, Node.js)  
 🌍 Based in Kenya | 🧠 Interested in Astrophysics & Relativity  
 
